@@ -1,0 +1,14 @@
+.purcheseButton{
+    padding: 10px 20px;
+    background-color: orangered;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    transition: .5s;
+    border: none;
+    border-radius: 5px;
+}
+
+.purcheseButton:hover{
+    background-color: red;
+}

@@ -1,0 +1,28 @@
+.banner{
+    height: 80vh;
+    background-color: black;
+}
+.banner-text{
+    color: white;
+}
+
+.banner-header{
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.banner-button{
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 10px 15px;
+    border: 1px solid white;
+    outline: none;
+    transition: 0.3s;
+}
+ 
+.banner-button:hover{
+    background-color: white;
+    color: black;
+}

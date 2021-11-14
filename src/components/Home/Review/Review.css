@@ -1,0 +1,16 @@
+.feedback{
+    border: .5px solid lightgrey;
+    border-radius: 10px;
+    padding: 10px;
+    transition: .5s;
+}
+.feedback-image{
+    border-radius: 360px;
+}
+
+.feedback:hover{
+    box-shadow: 2px 5px 10px lightgrey;
+}
+.review-details{
+    color: gray;
+}

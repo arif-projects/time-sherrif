@@ -1,0 +1,26 @@
+.navber{
+    background-color: black;
+}
+
+.items{
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color: azure;
+    transition: .5s;
+}
+
+.items:hover{
+    font-weight: 600;
+    background-color: white;
+    border-radius: 5px;
+    color: blue;
+}
+
+.navLoginButton{
+    
+    background-color: black;
+    color: white;
+    border: none;
+}

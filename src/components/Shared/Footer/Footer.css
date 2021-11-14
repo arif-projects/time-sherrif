@@ -1,0 +1,20 @@
+.footer{
+    background-color: black;
+    height: auto;
+    padding: 10px 0px;
+    color: white;
+}
+
+.subscribe-button{
+    padding: 5px 10px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.subscribe-input{
+    height: 35px;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+
+}
